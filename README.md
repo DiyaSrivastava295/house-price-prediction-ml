@@ -27,7 +27,7 @@ The project compares:
 
 ## Files
 
-* `house-price-prediction-ml.ipynb` = main notebook
+* `house-price-prediction-ml.ipynb` - main notebook
 * `house-price-prediction-ml.py` - Python script version
 * `plots/` - generated visualizations
 * `requirements.txt` - required libraries
